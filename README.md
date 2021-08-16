@@ -1,1 +1,1 @@
-# This repository contains nexus repository manager's configurations
+# Nexus Repository Manager Configurations
